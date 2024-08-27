@@ -5,7 +5,8 @@
     "keywords": [
         "laravel",
         "pusher",
-        "ably"
+        "ably",
+        "mercure"
     ],
     "homepage": "https://github.com/laravel/echo",
     "repository": {
